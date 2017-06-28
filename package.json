@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git@github.com:wix/mocha-plugin-env.git"
   },
-  "files":["dist/src", "load.js", "load.d.ts"],
+  "files":["dist/src", "register.js", "register.d.ts"],
   "testGlob": "./dist/test/**/*.spec.js?(x)",
   "homepage": "https://github.com/wix/mocha-plugin-env#readme",
   "keywords": ["typescript", "tdd"],
