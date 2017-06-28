@@ -1,6 +1,6 @@
 {
   "name": "mocha-plugin-env",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Mocha plugin to enable Highland streams support",
   "author": "Amir Arad (amira@wix.com)",
   "license": "MIT",
