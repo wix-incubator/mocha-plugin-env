@@ -1,6 +1,6 @@
 {
   "name": "mocha-plugin-env",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Mocha plugin to enable Highland streams support",
   "author": "Amir Arad (amira@wix.com)",
   "license": "MIT",
@@ -17,6 +17,7 @@
   "keywords": ["typescript", "tdd"],
   "main": "dist/src/index.js",
   "browser": "dist/src/index.js",
+  "types": "dist/src/index.d.ts",
   "scripts": {
     "build": "tsc -d",
     "bundle": "webpack --progress",
